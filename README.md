@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MaayanShore
-- 👀 I’m interested in a job fullstuck
+- 👋 Hi, I’m @MaayanShore.
+- 👀 I’m interested in a job as a Full Stack Developer.
 - 📫 How to reach me maayanshore@gmail.com
 
 <!---
